@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "logowhite",
+        "tailwindcss",
+        "abc"
+    ],
+    "eslint.workingDirectories": ["./backend", "./frontend"]
+}

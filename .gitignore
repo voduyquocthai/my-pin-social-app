@@ -1,14 +1,13 @@
-.vscode
 backend/node_modules
 frontend/node_modules
 
 # testing
-backend/coverage
-frontend/coverage
+# backend/coverage
+# frontend/coverage
 
 # production
-backend/build
-frontend/build
+# backend/build
+# frontend/build
 
 # misc
 .DS_Store
