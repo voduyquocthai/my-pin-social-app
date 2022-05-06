@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
+        "abc",
+        "browserslist",
         "logowhite",
-        "tailwindcss",
-        "abc"
+        "sharemesocialnetwork",
+        "tailwindcss"
     ],
     "eslint.workingDirectories": ["./backend", "./frontend"]
 }
